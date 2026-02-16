@@ -1,3 +1,7 @@
+Version 1.0.0.2 (Update Upgrade Version)
+---------------
+Tanggal : 
+
 Version 1.0.0.1 (Install + Training)
 ---------------
 Tanggal : 
