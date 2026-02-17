@@ -1,7 +1,11 @@
-Version 1.0.0.2 (Update Upgrade Version)
+Version 1.0.0.2 
 ---------------
-Tanggal : 
+Tanggal : 18 Feb 2026
+Update : 
+- Upgrade Version dari Remote Server
+- Kode Barang otomatis
+- Master Biaya
 
 Version 1.0.0.1 (Install + Training)
 ---------------
-Tanggal : 
+Tanggal : 12 Jan 2026
