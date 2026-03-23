@@ -1,3 +1,9 @@
+Version 1.0.2.1 
+---------------
+Tanggal : 23 Mar 2026
+Update : 
+- Kolom Penerima pada Kas/Bank Keluar
+
 Version 1.0.1.1 
 ---------------
 Tanggal : 18 Feb 2026
